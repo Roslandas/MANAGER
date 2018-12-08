@@ -1,24 +1,24 @@
-ADM-MANAGER-Último
-USUARIOS ONLINE
-USUARIOS VENCIDOS
-SU SISTEMA
+ADM-MANAGER-ULTIMATE
+EN LÍNEA:
+EXPIRADOS:
+SU SISTEMA:
 ¡BIENVENIDO AL MENÚ!
 GESTIONAR USUARIOS
-GESTIONAR HERRAMIENTAS
-ACTUALIZACIÓN
+HERRAMIENTAS
+ACTUALIZAR
 REMOVER ADM-ULTIMATE
 OPCIÓN:
-[ACTIVO]
+[ACTIVADO]
 [DESACTIVADO]
-CAMBIAR COLORES SISTEMA
+CAMBIAR COLORES DEL SCRIPT
 [VOLVER / SALIR]
-GERENCIADOR USUARIOS
+MENÚ USUARIOS
 CREAR USUARIOS
 REMOVER USUARIOS
 MODIFICAR USUARIOS
 DETALLES DE LOS USUARIOS
 VERIFICAR USUARIOS ONLINE
-CONTROLES
+CONTROL DE USUARIOS
 SUS COLORES USADOS ACTUALMENTE
 Elija en orden, 1 2 3 4 5 6
 ¿Cuál es la secuencia de colores ?:
@@ -27,28 +27,28 @@ No se han seleccionado seis colores!
 CAMBIAR IDIOMA DEL SCRIPT
 CREADOR DE USUARIOS ADM-ULTIMATE
 Nombre del nuevo usuario:
-Nombre Nulo
+Nombre nulo
 Usuario ya existente!
-Contraseña Para el usuario
-Duración Para el Usuario
+Contraseña para el usuario
+Duración para el Usuario
 Límite de conexión para el usuario
-usuario:
-contraseña:
-límite:
-validez:
-TODOS LOS USUARIOS CADASTRADOS
-REMOCIÓN DE USUARIOS
+Usuario:
+Contraseña:
+Límite:
+Validez:
+LISTA DE USUARIOS REGISTRADOS
+REMOVER USUARIOS
 Eliminar 1 Usuario
 Eliminar todos los usuarios
 Seleccione el usuario o escriba el nombre
 Ningún usuario ha sido seleccionado
-Usuario No existe
+Usuario no existente!
 eliminado
 eliminar
 ¡Enter, para volver!
 EDITOR DE USUARIOS
 Ningún usuario ha seleccionado
-Lo que vamos a editar de:
+Que opción va a editar de:
 Numero de logins de:
 Fecha de expiración de:
 Cambiar contraseña de:
@@ -59,28 +59,28 @@ Límite cambiado
 Fecha no modificada
 Cambiado!
 ¿Cuál es la nueva contraseña para:
-Contraseña No cambiada!
+Contraseña no cambiada!
 Nueva contraseña aplicada
 No se ha seleccionado Ninguna opción!
-usuario
-contraseña
-límite
-tiempo
-?????
-ilimitado
-caducado
+Usuario
+Contraseña
+Límite
+Tiempo
+??
+Ilimitado
+Caducado
 Tú tienes:
 Usuarios en su servidor
 días
 USUARIOS
 CONEXIÓN
 TIEMPO
-Ese Recurso Ira Traducir
+Ese Herramienta va a Traducir
 Todo el contenido de ADM-ULTIMATE
-Seleccione el número de idioma, o Utilice las iniciales del idioma
-El proceso puede llevar un largo tiempo!
-Traducir el sistema no interfiere en el proceso
-Introduzca el idioma:
+Seleccione el número de idioma, o utilice las iniciales del idioma.
+
+Traduciendo el sistema...
+Introduzca un idioma:
 horas
 acta
 uso
@@ -90,15 +90,15 @@ No hay Usuarios Vencidos!
 MENÚ HERRAMIENTAS
 CREAR BACKUP
 RESTAURAR BACKUP
-LIMPAR CACHE
+LIMPIAR CACHE
 BAD UDP
 TCP SPEED
 FAILBAN
 SQUID CACHE
 COMPARTIR ARCHIVO ONLINE
-Escriba sólo un valor numérico
+Escriba sólo valores numérico
 INICIANDO BACKUP
-Copia de seguridad del usuario
+Copia de seguridad de usuarios
 Usuario no registrado en ADM-ULTIMATE
 Introduzca la información del usuario.
 Contraseña actual:
@@ -106,14 +106,14 @@ Días De Duración:
 Límite de conexión:
 Copia de seguridad completa
 Back UDP disponible en la carpeta
-Introduzca el directorio y el destino de la copia de seguridad
-o bien, Introduzca un vínculo de copia de seguridad
+Ingresar el directorio de la copia de seguridad
+o bien, Introduzca un vínculo de una copia de seguridad
 Archivo o enlace
 ¡Archivo o enlace no válido!
 Copia de seguridad incompatible con ADM
-La restauración ...
+Restauración ...
 Usuario no restaurado
-Esta Herramienta Ira Limpiar Caches
+Esta Herramienta va a Limpiar Caches
 y eliminar los archivos temporales
 Procedimiento completado
 BADVPN se instalará
@@ -122,14 +122,14 @@ que libera puertos UDP en el servidor
 y así permitir el servicio VOIP!
 Inicio
 BADVPN iniciado con éxito
-Parar servicio BADVPN ...
-BADVPN parado con éxito
+Deteniendo servicio BADVPN ...
+BADVPN detenido con éxito
 Este Script fue proyectado
 Para Mejorar La Latencia
 y velocidad del servidor!
 analizar
 Este es un script experimental
-¡Utilice por su cuenta y riesgo!
+¡Utilice por su propia cuenta y riesgo!
 Este script cambiará algunas
 configuraciones de red
 del sistema para reducir
@@ -145,21 +145,21 @@ se han eliminado con éxito
 desinstalación
 Ver registro
 Este es el FAILBAN PROTECTION
-Hecho únicamente para proteger su salud
+Hecho únicamente para proteger la seguridad del
 Sistema, su objetivo es analizar
-LOGS DE ACCESO y bloquear todo y
-cualquier acción sospechosa
-aumentando el 70% de su seguridad.
+LOGS DE ACCESO y bloquear toda
+acción sospechosa
+aumentando en un 70% de su seguridad.
 ¿Desea instalar Fail2Ban?
 Fail2ban Sera Instalado
 Siguientes Servicios
 ¿Confirma la elección?
 Instalación finalizada
-Caché No Squid Nada más y Que
+Caché de Squid no es más Que
 Un historial de navegación en Squid
 Que ahorrará datos al abrir sitios
-Alocados en su caché
-¡El script hace una breve comprobación!
+Alojados en su caché
+¡El script hará una breve comprobación!
 No se ha identificado Squid!
 ¡Squid esta Activo en tu sistema!
 No hay servicio de caché en el Squid!
@@ -168,19 +168,19 @@ Activando el servicio SquidCache!
 Desactivando SquidCache !!
 esperar!
 COLOCAR ARCHIVO ONLINE
-OPCION IRA COLOCAR
+OPCION PARA COLOCAR
 CUALQUIER ARCHIVO ONLINE
-DESDE QUE ESTE ARCHIVO ESTÉ
-EN SU PASTA
+QUE ESTE ARCHIVO
+EN EL DIRECTORIO
 REMOVER ARCHIVO ONLINE
-LISTAR MIS LINKS ONLINE
+VER MIS ARCHIVOS ONLINE
 Opción invalida
-Seleccione el archivo
+Seleccione un archivo
 Ningún archivo ha sido seleccionado
 Procedimiento Hecho Con Éxito
-ACCESO ARCHIVO ATRAVES DEL LINK
+ACCESO AL ARCHIVO ATRAVES DEL ENLACE
 Sus archivos en la carpeta
-TESTAR VELOCIDAD
+TESTEAR SU VELOCIDAD
 INFORMACIÓN VPS
 Inicio de pruebas, espere ...
 Tiempo de respuesta Ping
@@ -200,16 +200,16 @@ Tiempo en línea
 Nombre de la máquina
 Dirección De la Maquina
 Versiones del kernel
-arquitectura
+Arquitectura
 analizar
 expediente
 actualizado
 Archivos actualizados
-Caliente! Actualizando ...
+Valida! Actualizando ...
 ¡Expirada o invalida Saliendo!
-¿Tiene certeza de esto?
+¿Esta seguro de esto?
 Desinstalación cancelada por el usuario
-Creado por Luis @admmanager
+Creado por @Teamadmmanager
 AGREGAR / REMOVER HOST-SQUID
 no encontrado
 O Squid no instalado
@@ -218,8 +218,8 @@ Quitar el host de Squid
 Opción Invalida
 Dominios actuales en el archivo
 Escriba el dominio que desea agregar
-Iniciando Com.
-¡Este vacío, no ha escrito nada!
+Iniciando con un .
+¡Esta vacío, no ha escrito nada!
 El dominio ya existe en el archivo
 ¡Éxito, Archivo Actualizado!
 Escriba el dominio que desea quitar
@@ -235,87 +235,87 @@ Quiere Añadir Más Textos
 BANNER COLORIDO
 Dependencias No instaladas, ¿Desea instalar?
 Instalando dependencias para proxy-socks ...
-Parando proxy-calcetines ...
-Proxy-calcetines parado
-Seleccione la puerta que va a girar
+Deteniendo proxy-sock ...
+Proxy-sock detenido!
+Seleccione la puerto que va a girar
 Su Proxy Sockets:
-Opa, Esta Esta siendo Usada por:
+Opa, Esta siendo Usada por:
 Desactive este servicio para usar
-La puerta:
+El puerto:
 Para el SOCKS
-Enter, para seleccionar otra puerta!
-Escriba un texto, para el estado 200
-Escoja el tipo de calcetines va a utilizar
+Enter, para seleccionar otro puerto!
+Escriba un texto, para el estado 200OK
+Escoja el tipo de sock a utilizar
 PROXY SOCKET EN PYTHON
 PROXY SOCKET EN PYTHON3
-Algo Deu Errado, el Socks No Iniciado
+Algo salió mal, Socks No Iniciado!
 perfecto
 BRUTE FORCE PAYLOAD
 ACTIVAR PROXY SOCKET
-LIMITACIÓN CONEXIÓN SIMULTÁNEA
+LIMITADOR DE CONEXIÓN SIMULTÁNEA
 VER PROXY PYTHON
-MENÚ INSTALACIÓN
+MENÚ DE INSTALACIÓN
 NINGUNO PROXY SOCKS ESTA ACTIVO
 DIGITE UN HOST PARA CREAR
 ¡PAYLOADS GENERICAS!
 CREADOR DE PAYLOADS
 DIGITE EL HOST
-No digas nada.
+No anadir nada.
 GENERADOR DE PAYLOAD
 ELEGIR EL METODO DE REQUISITOS
-Y POR ULTIMO, ELECCIÓN
+Y POR ULTIMO
 ¡METODO DE INYECCIÓN!
-ALGO DEU
+ALGO ESTA
 MAL!
-SUCESO, PAYLOADS GENERADAS
-LA PASTA:
+EXITO!, PAYLOADS GENERADAS
+DIRECTORIO:
 ACTIVAR PROXY GETTUNEL
-¿Cuál es la puerta que desea GetTUNNEL
-Puerta Usada Por:
+¿Cuál es el puerto que desea para el GetTUNNEL
+Puerto Usada Por:
 CLAVE DEL GETTUNEL:
 ¡GETTUNEL INICIADO CON ÉXITO!
 ¡GETTUNEL NO INICIO!
 Seleccione el servicio para gestionar puertos
-Ningún Servicio Elegido, O El Servicio Elegido No y Soportado
-¿Desea Fexar la puerta actual?
-O Abrir una nueva puerta en el servicio?
+Ningún Servicio Elegido, O El Servicio Elegido No es Soportado
+¿Desea cerrar el puerto actual?
+O Abrir un nuevo puerto en el servicio?
 Procedimiento, Terminado!
 GESTION DE PUERTAS
-Servicio y puerta elegidos:
+Servicio y puerto elegidos:
 Arquitectura no soportada!
 USO APROXIMADO
 CONSUMO TOTAL
 USUARIOS
 MONITOR DE CONSUMO
-Verificación No está Activada, O No existe Información
+Verificación no está activada, o no existe información
 BOT TELEGRAM
 SHADOWSOCKS / SSL stunnel
 SHADOWSOCKS Y SSL
 seleccione un puerto de redirección
 seleccione un puerto
-¡Puerta Invalida!
-No hay Puertas Internas Abiertas!
-Puerta De Su SSL Externa! esta puerta en la aplicación inyector
-Puerta en uso!
-¡Responda las Preguntas Correcto!
+¡Puerto Invalida!
+No hay Puertos Internos Abiertos!
+Puerto De Su SSL Externa! Ingresar puerto en la aplicación inyector
+Puerto en uso!
+¡Responda las Preguntas Correctamente!
 Medios de Encriptación
 Seleccione la encriptación
 ¡Encriptación no seleccionada!
 Contraseña:
 TCP OVER
-ULTRA HOST (ESCANER DE SUBDOMINIOS)
-HOSTALLO
+ULTRA HOST (SCANNER DE SUBDOMINIOS)
+HOST
 LÍMITE DE CAPTURA
-ESCUCHA UNA CONTRASEÑA y DESPUÉS CONFIRMA
+INGRESAR UNA CONTRASEÑA y DESPUÉS CONFIRMARLA
 VNC se conecta usando el ip de la vps en el puerto
 Para acceder a la interfaz gráfica
-Descargar en PlayStore:
-VNC no Este activo desea activar?
-VNC Este activo desea deshabilitar?
+Descargar de la PlayStore:
+VNC no Esta activo ¿Desea activar?
+VNC esta activo ¿Desea deshabilitar?
 VNC SERVER
-¡PARABRAS SU VERSIÓN ESTA ACTUALIZADA!
-¡ADM-ULTIMATE PUEDEN ACTUALIZACIONES!
-APLICAR BLOQUEO TORRENT (NUEVO)
+¡SU VERSIÓN ESTA ACTUALIZADA!
+¡ADM-ULTIMATE NECESITA ACTUALIZARSE!
+APLICAR BLOQUEO TORRENT
 Crear un nuevo archivo OpenVPN?
 Crear archivo con autenticación (usuario y contraseña)?
 Archivo generado en:

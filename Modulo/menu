@@ -65,7 +65,7 @@ exit
 9)
 $value > /dev/null 2>&1
 chmod +x /etc/adm-lite/*
-[[ -e /etc/adm-lite/idioma_menuinst ]] && idioma=$(cat /etc/adm-lite/idioma_menuinst|head -1) || idioma="pt"
+[[ -e /etc/adm-lite/idioma_menuinst ]] && idioma=$(cat /etc/adm-lite/idioma_menuinst|head -1) || idioma="en"
 value=$(vary_rex "2f6574632f61646d2d6c6974652f6d656e755f696e7374")
 ${value} ${idioma}
 ;;

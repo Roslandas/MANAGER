@@ -106,8 +106,8 @@ cor[3]="\033[1;31m"
 cor[5]="\033[1;32m"
 cor[4]="\033[0m"
 cd $HOME
-locale-gen en_EN.UTF-8 > /dev/null 2>&1
-update-locale LANG=en_EN.UTF-8 > /dev/null 2>&1
+locale-gen lt_LT.UTF-8 > /dev/null 2>&1
+update-locale LANG=lt_LT.UTF-8 > /dev/null 2>&1
 apt-get install gawk -y > /dev/null 2>&1
 wget -O trans https://raw.githubusercontent.com/rolka1978/MANAGER/master/Install/trans -o /dev/null 2>&1
 mv -f ./trans /bin/ && chmod 777 /bin/*

@@ -106,13 +106,13 @@ cor[3]="\033[1;31m"
 cor[5]="\033[1;32m"
 cor[4]="\033[0m"
 cd $HOME
-locale-gen lt_LT.UTF-8 > /dev/null 2>&1
-update-locale LANG=lt_LT.UTF-8 > /dev/null 2>&1
+locale-gen en_EN.UTF-8 > /dev/null 2>&1
+update-locale LANG=en_EN.UTF-8 > /dev/null 2>&1
 apt-get install gawk -y > /dev/null 2>&1
 wget -O trans https://raw.githubusercontent.com/rolka1978/MANAGER/master/Install/trans -o /dev/null 2>&1
 mv -f ./trans /bin/ && chmod 777 /bin/*
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
-echo -e "${cor[2]}PASIRINKITE KALBA\n${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠\n${cor[2]}[1]-PT\n[2]-EN\n[3]-ES\n[4]-FR"
+echo -e "${cor[2]}PASIRINKITE KALBA\n${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠\n${cor[2]}[1]-LT\n[2]-EN\n[3]-ES\n[4]-FR"
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
 echo -ne " PASIRINKIMAS: "; read lang
 case $lang in

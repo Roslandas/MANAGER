@@ -2,20 +2,19 @@
 
 Manager Script
 
-1 • RECOMENDADO UBUNTU 14.04
+1 • REKOMENDUOJAMA UBUNTU 14.04
 
-2 • USAR DISTRIBUCION NUEVA O FORMATIADA
+2 • TINKA IR KITOM SISTEMOM BET GERIAUSIA UBUNTU 14.04
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-MOD/master/instala.sh; chmod +x instala.sh; ./instala.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/rolka1978/MANAGER/master/instala.sh; chmod +x instala.sh; ./instala.sh
 
 ==================================================================================
 
-*SIN MINERIA! *SIN KEYS! *VERSION GRATUITA *SIN VIRUS TROJANO (BOTNET) *ARCHIVOS LIBERADOS (DECENCRIPTADOS)
+MODIFIKUOTA ROLKOS
 
 ==================================================================================
 
 ☆ https://t.me/admmanagerfree ☆
 =================================================
-TEAM [ ILLUMINATI ⃘⃤꙰✰ ] @El_Gato
 
-[ FULL SCRIPTS ⃘⃤꙰✰ ] && VPS
+[ PILNAS SCRIPTAS ] && VPS

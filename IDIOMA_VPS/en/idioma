@@ -1,339 +1,339 @@
 ADM-MANAGER-ULTIMATE
-PRISIJUNGĘS:
+PRISIJUNGES:
 GALIOJAMA:
 SISTEMA:
-SVEIKI ATVYKE Į MENIU!
+¡SVEIKI ATVYKE I MENIU!
 VALDYTI VARTOTOJUS
-ĮRANKIAI
+IRANKIAI
 ATNAUJINTI
 PASALINTI ADM-ULTIMATE
 PARINKTYS:
 [Aktyvinta]
-[IŠJUNGTA]
+[ISJUNGTA]
 PAKEISTI SCRIPTO SPALVAS
-[ATGAL / IŠEITI]
+[ATGAL / ISEITI]
 VARTOTOJO MENIU
 SUKURTI VARTOTOJUS
-TRYNTI VARTOTOJA
+TRYNTI VARTOTOJUS
 MODIFIKUOTI VARTOTOJUS
 DUOMENYS VARTOTOJU
 PRISIJUNGE VARTOTOJAI
-VARTOTOJŲ KONTROLĖ
-JŪSŲ DABAR NAUDOTOS SPALVOS
+VARTOTOJŲ KONTROLE
+JUSU DABAR NAUDOTOS SPALVOS
 Pasirinkite tvarka, 1 2 3 4 5 6
-Kokia spalvų seka ?:
-Šešios spalvos nebuvo pasirinktos!
-Taikant pasirinktą spalvą! ...
-PAKEISTI SCRIPTO KALBĄ
-ADM-ULTIMATE VARTOTOJŲ KŪRĖJAS
+¿Kokia spalvu seka ?:
+sesios spalvos nebuvo pasirinktos!
+Taikant pasirinktą spalva! ...
+PAKEISTI SCRIPTO KALBA
+ADM-ULTIMATE VARTOTOJŲ KUREJAS
 Naujo vartotojo vardas:
 Nulis vardas
 Jau esamas vartotojas!
-Vartotojo slaptažodis
-Trukmė vartotojui
+Vartotojo slaptazodis
+Trukme vartotojui
 Prisijungimo riba vartotojui
 Vartotojas:
-Slaptažodis:
-Ribos:
+Slaptazodis:
+Limitas:
 Galiojimas:
-REGISTRUOTŲ VARTOTOJŲ SĄRAŠAS
-NEMOKAMA VARTOTOJŲ
-Ištrinti 1 vartotoją
-Ištrinkite visus vartotojus
-Pasirinkite vartotoją arba įveskite vardą
+REGISTRUOTU VARTOTOJU SARASAS
+Trynti VARTOTOJA
+Istrinti 1 vartotoja
+Istrinkite visus vartotojus
+Pasirinkite vartotoja arba iveskite varda
 Nepasirinktas joks vartotojas
 Neegzistuojantis vartotojas!
-pašalintas
-pašalinti
-ENTER, kad grįžtum!
+pasalintas
+pasalinti
+¡Enter, kad griztum!
 VARTOTOJO REDAKTORIUS
-Nė vienas vartotojas nepasirinko
-Kurią parinktį redaguosite iš:
-Prisijungimų skaičius:
+Ne vienas vartotojas nepasirinktas
+Kuria parinkti redaguosite is:
+Prisijungimu skaicius:
 Galiojimo laikas:
-Pakeisti slaptažodį:
-Kokia yra nauja prisijungimo riba:
-Limitas nepakeistas!
+Pakeisti slaptazodi:
+¿Kokia yra nauja prisijungimo riba:
+¡Limitas nepakeistas!
 Limitas pakeistas
-Kiek dienų tai turėtų trukti?
+¿Kiek dienu tai turetu trukti?
 Nekeista data
-Pasikeitė!
-Koks yra naujas slaptažodis:
-Slaptažodis nepasikeitė!
-Taikytas naujas slaptažodis
-Nepasirinkta nė viena parinktis!
+Pasikeite!
+¿Koks yra naujas slaptazodis:
+Slaptazodis nepasikeite!
+Taikytas naujas slaptazodi
+Nepasirinkta ne viena parinktis!
 Vartotojas
-Slaptažodis
-Riboti
-Orai
+Slaptazodis
+Limitas"
+Laikas"
 ??
 Neribota
-Laikas baigėsi
+Laikas baigesi
 Tu turi:
-Jūsų serverio vartotojai
-dienų
+Jusu serverio vartotojai
+dienu
 VARTOTOJAI
 JUNGTIS
-Orai
-Tas įrankis vers
+LAIKAS
+Tas Irankis vers
 Visas ADM-ULTIMATE turinys
-Pasirinkite kalbos numerį arba naudokite kalbos pradmenis.
+Pasirinkite kalbos numeri arba naudokite kalbos pradmenis.
 
-Išversta sistema ...
-Įveskite kalbą:
+Isversta sistema ...
+Iveskite kalba:
 valandos
-minučių
+minuciu
 naudoti
-Prisijungusio vartotojo nėra
-IŠTRINTI PASIBAIGUSIUS VARTOTOJUS
-Nėra pasibaigusių vartotojų!
-ĮRANKIŲ MENIU
-SUKURTI ATSARGINĘ KOPIJĄ
-ATSTATYTI ATSARGINĘ KOPIJĄ
+Prisijungusio vartotojo nera
+ISTRINTI PASIBAIGUSIUS VARTOTOJUS
+Nera pasibaigusiu vartotoju!
+IRANKIU MENIU
+SUKURTI BACKUP
+ATSTATYTI BACKUP
 VALYKITE CACHE
 BAD UDP
 TCP SPEED
 FAILBANAS
 SQUID CACHE
-BENDRINTI RYŠIUS internetu
-Įveskite tik skaitines reikšmes
-PADARYTI atsargines kopijas
-Vartotojo atsarginė kopija
-Vartotojas neįregistruotas ADM-ULTIMATE
-Įveskite vartotojo informaciją.
-Dabartinis slaptažodis:
-Trukmės dienos:
-Ryšio riba:
+BENDRINTI Failus internetu
+Iveskite tik skaitines reiksmes
+PADARYTI BACKUP
+Vartotojo backup kopija
+Vartotojas neiregistruotas ADM-ULTIMATE
+Iveskite vartotojo informacija.
+Dabartinis slaptazodis:
+Trukmes dienos:
+Rysio limitas:
 Visas atsarginis kopijavimas
 Atgal UDP galima rasti aplanke
-Įveskite atsarginės kopijos katalogą
-arba įveskite nuorodą iš atsarginės kopijos
+Iveskite atsargines kopijos kataloga
+arba iveskite nuoroda is atsargines kopijos
 Failas arba nuoroda
-Failas ar nuoroda negalioja!
-Atsarginė kopija nesuderinama su ADM
+¡Failas ar nuoroda negalioja!
+Atsargine kopija nesuderinama su ADM
 Restauravimas ...
 Naudotojas neatkurtas
-Ši priemonė išvalys talpyklas
-ir ištrinti laikinuosius failus
-Užbaigta procedūra
-BADVPN bus įdiegtas
+Si priemone isvalys talpyklas
+ir istrinti laikinuosius failus
+Uzbaigta procedura
+BADVPN bus idiegtas
 o tai yra ne kas kita, kaip programa
 tai atlaisvina UDP prievadus serveryje
-ir tokiu būdu leiskite VOIP paslaugai!
-Pradėti
-BADVPN sėkmingai paleistas
-Sustabdome BADVPN paslaugą ...
-BADVPN sėkmingai sustabdytas
-Šis scenarijus buvo numatytas
-Pagerinti delsą
+ir tokiu budu leiskite VOIP paslaugai!
+Pradeti
+BADVPN sekmingai paleistas
+Sustabdome BADVPN paslauga ...
+BADVPN sekmingai sustabdytas
+Sis scriptas buvo numatytas
+Pagerinti delsa
 ir serverio greitis!
 analizuoti
-Tai yra eksperimentinis scenarijus
-Naudokite savo rizika!
-Šis scenarijus šiek tiek pakeis
-tinklo konfigūracijos
-sistemos sumažinti
-delsą ir pagerinkite greitį
-Tęsti diegimą?
-Tinklo konfigūracija
-buvo sėkmingai pridėti
-jie jau buvo įtraukti į sistemą!
-Norite pašalinti konfigūraciją
-Tinklo konfigūracija
-buvo sėkmingai pašalinti
-Kodėl gi ne?
-pašalinti
-Žiūrėti įrašą
+Tai yra eksperimentinis scriptas
+¡Naudokite savo rizika!
+Sis scriptas siek tiek pakeis
+tinklo konfiguracijos
+sistemos sumazinti
+delsa ir pagerinkite greiti
+Testi diegima?
+Tinklo konfiguracija
+buvo sekmingai prideti
+jie jau buvo itraukti i sistema!
+Norite pasalinti konfiguracija
+Tinklo konfiguracija
+buvo sekmingai pasalinti
+¿Kodel gi ne?
+pasalinti
+Ziūreti irasa
 Tai FAILBAN APSAUGA
 Pagaminta tik siekiant apsaugoti
 Sistema, jos tikslas yra analizuoti
-PRIEIGOS ŽURNALUS ir užblokuokite visus
-įtartinas veiksmas
-Padidinkite savo saugumą 70%.
-Ar norite įdiegti „Fail2Ban“?
-„Fail2ban“ bus įdiegta
-Kitos paslaugos
-Ar patvirtinate pasirinkimą?
+PRIEIGOS ZURNALUS ir uzblokuokite visus
+itartinas veiksmas
+Padidinkite savo sauguma 70%.
+¿Ar norite idiegti „Fail2Ban“?
+Fail2ban“ bus idiegta
+Kitos paslaugos?
+¿Ar patvirtinate pasirinkima?
 Diegimas baigtas
 Squid talpykla yra ne daugiau kaip
-Navigacijos kalmaruose istorija
-Tai padės išsaugoti duomenis atidarant svetaines
+Navigacijos squid istorija
+Tai pades issaugoti duomenis atidarant svetaines
 Priglobta talpykloje
-Scriptas trumpai patikrins!
+¡Scriptas trumpai patikrins!
 Squid nebuvo identifikuoti!
-Squid yra aktyvūs jūsų sistemoje!
-Squid nėra talpyklos paslaugos!
-Iš naujo paleiskite paslaugas Palaukite!
-„SquidCache“ paslaugos suaktyvinimas!
-Išjungti „SquidCache“ !!
+¡Squid yra aktyvus jusu sistemoje!
+Squid nera talpyklos paslaugos!
+Is naujo paleiskite paslaugas Palaukite!
+SquidCache“ paslaugos suaktyvinimas!
+Isjungti „SquidCache“ !!
 laukti!
-PADARYKITE RINKINĮ ONLINE
+PADARYKITE RINKINI ONLINE
 GALIMA VIETA
 BET KOKIAS internetinis failas
-TAI Ši byla
+TAI si byla
 ADRESO KNYGOJE
-NEMOKAMAI NUOTRAUKĄ TINKLAI
-ŽIŪRĖKITE MANO Failus internetu
+NEMOKAMAI NUOTRAUKA TINKLAI
+ZIUREKITE MANO Failus internetu
 Netinkama parinktis
-Pasirinkite failą
-Nepasirinktas nė vienas failas
-Sėkminga procedūra
-PRIEIGA Į Bylą per nuorodą
-Jūsų aplanke esantys failai
-BANDYKITE savo greitį
+Pasirinkite faila
+Nepasirinktas ne vienas failas
+Sekminga procedura
+PRIEIGA I Byla per nuoroda
+Jusu aplanke esantys failai
+BANDYKITE savo greiti
 VPS INFORMACIJA
-Testų pradžia, palaukite ...
+Testu pradzia, palaukite ...
 Reakcijos laikas Ping
-Krovinio greitis
+Krovimo greitis
 Siuntimo greitis
-Apdorojant informaciją įvyko klaida
-sistema
-pagrįstas
+Apdorojant informacija ivyko klaida
+Sistema
+pagristas
 Fizinis procesorius
-Darbinis dažnis
+Darbinis daznis
 Procesoriaus naudojimas
 Bendra virtualioji atmintis
 Naudojama virtualioji atmintis
 Nemokama virtualioji atmintis
 Virtualiosios atminties apsikeitimas
 Internetinis laikas
-Mašinos pavadinimas
-Mašinos kryptis
+Masinos pavadinimas
+Masinos kryptis
 Branduolio versijos
-Architektūra
+Architektura
 analizuoti
-bylos medžiaga
+bylos medziaga
 atnaujinta
 Atnaujinti failai
 Patvirtinkite! Atnaujinama ...
-Pasibaigęs arba netinkamas išeiti!
-Ar tikrai dėl to?
-Pašalinimą atšaukė vartotojas
-Sukūrė @Rolka
-PRIDĖTI / IŠIMTI HOSTA
+¡Pasibaiges arba netinkamas, iseiti!
+¿Ar tikrai dėl to?
+Pasalinima atsauke vartotojas
+Sukure @Rolka
+PRIDETI / ISIMTI HOSTA
 nerastas
-Squid neįdiegti
+Squid neidiegti
 Prideti Host ar Squid
 Pasalinkite host ar Squid
 Netinkama parinktis
 Dabartiniai failo domenai
-Įveskite domeną, kurį norite pridėti
-Pradedant nuo.
-Tuscia, nieko neparasei!
+Iveskite domena, kuri norite prideti
+Pradedant nuo ., pavyzdys: .rolka.com
+¡Tuscia, nieko neparasei!
 Domenas jau yra faile
-Sėkmė, atnaujintas failas!
-Įveskite domeną, kurį norite pašalinti
+¡Sekmes, atnaujintas failas!
+Iveskite domena, kuri norite pasalinti
 domenas nerastas
-Įveskite banerio tekstą
-žalias
+Iveskite banerio teksta
+zalias
 Raudona
-mėlyna
+melyna
 geltona
-violetinė
-Įveskite pagrindinį pranešimą
-Norite pridėti daugiau tekstų
+violetine
+Iveskite pagrindini pranesima
+Norite prideti daugiau tekstu
 SPALVOTAS BANERIS
-Priklausomybės neįdiegtos, ar norite įdiegti?
-Įdiegiamos tarpinių tarpinių priklausomybės ...
-Sustabdomas įgaliotasis serverio kojinis ...
-Įgaliotoji kojinė sustojo!
-Pasirinkite pasukimo prievadą
-Jūsų tarpinio serverio lizdai:
+Neidiegtos priklausomybes, ¿ar norite idiegti?
+Diegiant priklausomybes proxy-socks ...
+Sustoti proxy-sock ...
+Proxy-sock sulaikytas!
+Pasirinkite pasukimo prievada
+Jusu tarpinio serverio lizdai:
 Opa, ja naudojasi:
-Jei norite naudoti šią paslaugą, išjunkite
+Jei norite naudoti sia paslauga, isjunkite
 SQUID:
 Jam SOCKS
-Įveskite, norėdami pasirinkti kitą prievadą!
-Parašykite tekstą, kurio būsena yra 200OK
-Pasirinkite naudojamų kojinių tipą
-PROXY LOCKET PYTHON
-PROXY LOCKET PYTHON3
-Kažkas negerai, kojinės nepradėtos!
+Enter, noredami pasirinkti kita prievada!
+Parasykite teksta, kurio busena yra 200OK
+Pasirinkite naudojamu sock tipa
+PROXY SOCKET EN PYTHON
+PROXY SOCKET EN PYTHON3
+Kazkas negerai, socks nepradetos!
 puikus
-KURTI FORCE PAYLOADA
+KURTI FORCE PAYLOAD
 AKTYVUMO PROXY RINKINYS
 VARTOTOJU JUNGIMO RIBOTUVAS
-TAIP PAT SKAITYKITE PYTHONĄ
-ĮRENGIMO MENIU
-JOKIOS PROXY SOCKS nėra aktyvios
-DIGLIAUSIASIS SENASIS KŪRIMAS
-MOKAMI ĮKLĖJIMAI GENERIKAI!
-KUREJAS PAYLOADS
+TAIP PAT SKAITYKITE PYTHONA
+IRENGIMO MENIU
+JOKIOS PROXY SOCKS nera aktyvios
+DIGLIAUSIASIS SENASIS KURIMAS
+¡PAYLOADS GENERICAS!
+KUREJAS PAYLOAD
 SKAITYKITE HOST
 Nieko nepridėkite.
 GENERATORIUS PAYLOAD
-PASIRINKITE REIKALAVIMO METODĄ
+PASIRINKITE REIKALAVIMO METODA
 IR, GALIAUSIAI
-INJEKCIJOS METODAS!
-KAŽKAS YRA
+¡INJEKCIJOS METODAS!
+KAZKAS YRA
 Neteisingai!
 SEKMES!, PAYLOADAS SUKURTAS
-KATALOGAS
+KATALOGAS:
 AKTYVA PROXY GETTUNEL
-Ko reikia norint gauti „GetTUNNEL“ prievadą
-Uostą naudoja:
+¿Ko reikia norint gauti „GetTUNNEL“ prievada
+Portas naudoja:
 PAGRINDINIS GETTUNELIS:
-GETTUNELIS PRADĖS Sėkmingai!
-GETTUNELIS NEMOKAMA!
-Pasirinkite prievadų tvarkymo paslaugą
-Nepasirinkta jokia tarnyba, arba nepalaikoma išrinktoji tarnyba
-Ar norite uždaryti dabartinį porta?
-O Atidaryti naują paslaugų prievadą?
-Procedūra baigta!
+¡GETTUNELIS PRADES Sekmingai!
+¡GETTUNELIS NEMOKAMA!
+Pasirinkite prievadu tvarkymo paslauga
+Nepasirinkta jokia tarnyba, arba nepalaikoma isrinktoji tarnyba
+¿Ar norite uzdaryti dabartini porta?
+O Atidaryti nauja paslaugu prievada?
+Procedura baigta!
 SCRIPTO VALDYMAS
 Pasirinkta paslauga ir portas:
-Nepalaikoma architektūra!
+Nepalaikoma architektura!
 PATVIRTINAMAS NAUDOJIMAS
-IŠ VISO VARTOJIMO
+IS VISO VARTOJIMO
 VARTOTOJAI
-VARTOTOJŲ STEBĖTOJAS
-Patvirtinimas neaktyvinamas arba informacijos nėra
+VARTOTOJU STEBETOJAS
+Patvirtinimas neaktyvinamas arba informacijos nera
 BOTAS TELEGRAME
-SHADOWSOCKS / SSL triukas
-RODIKLIAI IR SSL
-pasirinkite peradresavimo prievadą
+SHADOWSOCKS / SSL stunnel
+SHADOWSOCKS Y SSL
+pasirinkite peradresavimo prievada
 pasirinkite porta
-Neteisingas portas!
-Nėra atvirų vidinių portu!
-Jūsų išorinio SSL prievadas! Įveskite įvadą injektoriaus programoje
+¡Neteisingas portas!
+Nera atviru vidiniu portu!
+Jusu isorinio SSL prievadas! iveskite ivada injektoriaus programoje
 Naudojamas portas!
-Atsakykite į klausimus teisingai!
-Šifravimo laikmenos
-Pasirinkite šifravimą
-Šifravimas nepasirinktas!
-Slaptažodis:
+¡Atsakykite i klausimus teisingai!
+Sifravimo laikmenos
+Pasirinkite sifravima
+¡Sifravimas nepasirinktas!
+Slaptazodis:
 TCP Baigta
-„ULTRA HOST“ (SUBDOMINIOS SKANNERIS)
+ULTRA HOST (SUBDOMINIOS SKANNERIS)
 HOST
 Fiksavimo limitas
-Įveskite slaptažodį ir po to patvirtinkite
+iveskite slaptazodi ir po to patvirtinkite
 VNC jungiasi naudodamas IP prievado IP
-Norėdami pasiekti grafinę sąsają
-Atsisiųsti iš „PlayStore“:
+Noredami pasiekti grafine sasaja
+Atsisiusti is „PlayStore“:
 VNC neaktyvus Ar norite suaktyvinti?
-VNC aktyvus Ar norite išjungti?
+VNC aktyvus Ar norite isjungti?
 VNC SERVERIS
-JŪSŲ VERSIJA ATNAUJINTA!
-ADM-ULTIMATE REIKIA ATNAUJINTI!
-TAIKYTI TORRENTU BLOKĄ
-Sukurti naują „OpenVPN“ failą?
-Sukurti failą su autentifikavimu (vartotojo vardas ir slaptažodis)?
+¡JUSU VERSIJA ATNAUJINTA!
+¡ADM-ULTIMATE REIKIA ATNAUJINTI!
+TAIKYTI TORRENTU BLOKA
+Sukurti nauja „OpenVPN“ faila?
+Sukurti faila su autentifikavimu (vartotojo vardas ir slaptazodis)?
 Failas sugeneruotas:
-Jei norite palikti internetą:
+Jei norite palikti interneta:
 Automatinis vykdymas
 Autentifikacija PROXY SQUID
-Klaida kuriant slaptažodį, squid autentifikacija neprasidėjo!
+Klaida kuriant slaptazodi, squid autentifikacija neprasidejo!
 PATVIRTINIMAS PROXY SQUID INICIJUOTA.
-Proxy squid neįdiegtas, negali tęsti.
+Proxy squid neidiegtas, negali tęsti.
 PATVIRTINIMAS PROXY SQUID ISJUNGTA.
-Vartotojas negali būti niekinis.
-Ar norite įjungti proxy squid serverio autentifikavimą?
-Ar norite išjungti proxy squid serverio autentifikavimą?
-JŪSŲ IP:
+Vartotojas negali buti niekinis.
+¿Ar norite ijungti proxy squid serverio autentifikavima?
+¿Ar norite išjungti proxy squid serverio autentifikavima?
+JUSU IP:
 PERKRAUTI VPS („REBOOT“)
-Ar tikrai norite iš naujo paleisti VPS?
+¿Ar tikrai norite is naujo paleisti VPS?
 Pasirengimas paleisti VPS.
-ĮRENGIMO MENIU
+IRENGIMO MENIU
 INSTALIUOTI
 KONFIGURAVIMAS
 Pasirinkimas ir pasirinkimas

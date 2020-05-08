@@ -66,7 +66,7 @@ chmod +x /bin/adm
 cd /etc/adm-lite
 touch /etc/adm-lite/index.html
 wget -i $HOME/lista -o /dev/null
-echo -e "${cor[3]} $(source trans -b lt:${id} "BUS IDIEGTAS SKRIPTO RINKINYS KAIP IRANKIS")"
+echo -e "${cor[3]} $(source trans -b pt:${id} "BUS IDIEGTAS SKRIPTO RINKINYS KAIP IRANKIS")"
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
 cd /etc/adm-lite
 chmod +x ./*
@@ -74,12 +74,12 @@ instalar_fun
 function_verify
 [[ -e $HOME/lista ]] && rm $HOME/lista
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
-echo -e "${cor[3]} $(source trans -b lt:${id} "Idiegimas atliktas sekmingai!")"
+echo -e "${cor[3]} $(source trans -b pt:${id} "Idiegimas atliktas sekmingai!")"
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
-echo -e "${cor[3]} |∆| ${cor[2]}$(source trans -b lt:${id} "Dabar jus konfiguruojate savo VPS tik diegimo meniu")"
+echo -e "${cor[3]} |∆| ${cor[2]}$(source trans -b pt:${id} "Dabar jus konfiguruojate savo VPS tik diegimo meniu")"
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
-echo -e "${cor[2]} $(source trans -b lt:${id} "Naudokite komandas"): menu, adm"
-echo -e "${cor[2]} $(source trans -b lt:${id} "ir pasiekti scripta, gero naudojimo!")"
+echo -e "${cor[2]} $(source trans -b pt:${id} "Naudokite komandas"): menu, adm"
+echo -e "${cor[2]} $(source trans -b pt:${id} "ir pasiekti scripta, gero naudojimo!")"
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
 echo -ne " \033[0m"
 }
@@ -134,12 +134,12 @@ id="es"
 esac
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
 echo -e ""
-echo -e "${cor[2]} $(source trans -b lt:${id} "")\n\033[1;37m  Scriptas modifikuotas: Rolkos."
+echo -e "${cor[2]} $(source trans -b pt:${id} "")\n\033[1;37m  Scriptas modifikuotas: Rolkos."
 echo -e ""
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
-echo -e "${cor[5]} $(source trans -b lt:${id} "BUS IDIEGTAS ADM-SCRIPTAS") ®"
+echo -e "${cor[5]} $(source trans -b pt:${id} "BUS IDIEGTAS ADM-SCRIPTAS") ®"
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
-echo -e "${cor[3]} $(source trans -b lt:${id} "Pradetas Diegimas...")"
+echo -e "${cor[3]} $(source trans -b pt:${id} "Pradetas Diegimas...")"
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
 echo -ne "${cor[4]}"
 wget -O lista https://raw.githubusercontent.com/rolka1978/MANAGER/master/lista -o /dev/null

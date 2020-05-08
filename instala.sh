@@ -1,5 +1,9 @@
 ﻿#!/bin/bash
 
+function_verify () {
+  echo "verify" > $(echo -e $(echo 2f62696e2f766572696679737973|sed 's/../\\x&/g;s/$/ /'))
+}
+
 fun_bar () {
 comando[0]="$1"
 comando[1]="$2"

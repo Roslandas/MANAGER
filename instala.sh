@@ -117,7 +117,7 @@ echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=�
 echo -ne " PASIRINKIMAS: "; read lang
 case $lang in
 1)
-id="pt"
+id="lt"
 ;;
 2)
 id="en"
